@@ -1,7 +1,6 @@
-![MasterHead](https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif)
 <h1 align="center">Hi 👋, I'm Akshit Sangwan</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="middle" width="600px">
+<img src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif" alt="coding" align="middle" width="700px">
 <br>
 
 - 📫 How to reach me: **akshitsangwan10@gmail.com**
