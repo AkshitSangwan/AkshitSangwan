@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshit Sangwan</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif" alt="coding" align="middle" width="700px">
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="coding" align="middle" width="700px">
 <br>
 
 - 📫 How to reach me: **akshitsangwan10@gmail.com**
