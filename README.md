@@ -1,7 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Akshit Sangwan</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="middle">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="middle" width="600px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitsangwan&label=Profile%20views&color=0e75b6&style=flat" alt="akshitsangwan" /> </p>
 
