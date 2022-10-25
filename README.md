@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitsangwan" alt="akshitsangwan" /></a> </p>
 
-- 📫 How to reach me **akshitsangwan10@gmail.com**
+- 📫 How to reach me: **akshitsangwan10@gmail.com**
 
-- ⚡ Fun fact **I am something of a developer myself:)**
+- ⚡ Fun fact: **I am something of a developer myself:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
