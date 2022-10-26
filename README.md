@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="coding" align="middle" width="700px">
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitsangwan&label=Profile%20views&color=0e75b6&style=flat" alt="akshitsangwan" /> </p>
 
 - 📫 How to reach me: **akshitsangwan10@gmail.com**
 
