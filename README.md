@@ -15,7 +15,7 @@
 <a href="https://dribbble.com/akshit_sangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="akshit_sangwan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshitsangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshitsangwan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akshitsangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshitsangwan" height="30" width="40" /></a>
-<a href="https://discord.gg/AkshitSangwan#2929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AkshitSangwan#2929" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/547526872272076800547526872272076800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AkshitSangwan#2929" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
